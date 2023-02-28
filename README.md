@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Natannael Icaro! 😄
 
 - 🔭 Estou trabalhando como Front-End
-- 🌱 Estudando Javascript, CSS, HTML e React 
+- 🌱 Estudando Javascript, CSS, HTML, React e C#
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Faço academia a 1 ano e meio
 
