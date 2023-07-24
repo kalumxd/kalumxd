@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Natannael Icaro! 😄
 
-- 🔭 Estou trabalhando como Software Test Analyst QA
+- 🔭 Estou trabalhando como Desenvolvedor Full Stack .NET e ReactJS | NodeJS | C#
 - 🌱 Estudando Javascript, CSS, HTML, React, C#, Python e Cypress
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Faço academia a 1 ano e meio
